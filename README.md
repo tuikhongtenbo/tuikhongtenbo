@@ -7,7 +7,7 @@
 <!-- Typing SVG -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=📊+Turning+raw+data+into+actionable+insights;🤖+Building+ML+models+%26+data+pipelines;🎓+Data+Science+Student+%40+UIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=📊+Turning+raw+data+into+actionable+insights;🤖+Building+ML+models+%26+data+pipelines;🎓+Data+Science+Student+%40+UIT" alt="Typing SVG" />
 </p>
 
 ---
@@ -169,13 +169,7 @@ me.say_hi()
 
 ---
 
-<!-- Snake Contribution Graph -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuikhongtenbo/tuikhongtenbo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuikhongtenbo/tuikhongtenbo/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tuikhongtenbo/tuikhongtenbo/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
 
 <!-- Capsule Render - Animated Wave Footer -->
 
