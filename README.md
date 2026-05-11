@@ -20,13 +20,13 @@
 
 ## Tech Stack & Skills
 
-#### Languages & Scripting
+### Languages & Scripting
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,bash&theme=dark" />
 </p>
 
-#### Data Science & Machine Learning
+### Data Science & Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
@@ -41,7 +41,7 @@
 </p>
 </p>
 
-#### Databases & Data Engineering
+### Databases & Data Engineering
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis&theme=dark" />
@@ -55,10 +55,10 @@
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-#### Cloud & DevOps
+### Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,gcp,docker,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure,gcp,docker&theme=dark" />
 </p>
 
 ## GitHub Stats
@@ -121,7 +121,7 @@
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pham-thang-4a714424b/" target="_blank">
@@ -130,8 +130,8 @@
   <a href="mailto:ply58509@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/tuikhongtenbo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.facebook.com/pham.quoc.thang.823638" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
