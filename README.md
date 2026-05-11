@@ -70,10 +70,10 @@
 </p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tuikhongtenbo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b6b&currStreakNum=58a6ff&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com?user=tuikhongtenbo&hide_border=true&background=0d1117&stroke=30363d&ring=f0b429&fire=f0b429&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9e9e9e&sideLabels=9e9e9e&dates=6e7681" />
 </p>
 
----
+<!-- ---
 
 ## 🚀 Featured Projects
 
@@ -117,7 +117,7 @@
       <p>Automated question classification for Chart VQA dataset using GPT-4o API with multi-threaded processing and rate limit handling.</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
@@ -135,8 +135,8 @@
   </a>
 </p>
 
----
+<!-- ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tuikhongtenbo&color=58a6ff&style=flat-square&label=Profile+Views" />
-</p>
+</p> -->
