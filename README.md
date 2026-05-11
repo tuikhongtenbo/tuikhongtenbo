@@ -12,37 +12,21 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-```python
-class DataEnthusiast:
-    def __init__(self):
-        self.name       = "Thắng"
-        self.university = "University of Information Technology (UIT)"
-        self.major      = "Data Science"
-        self.roles      = ["Data Engineer", "Data Scientist", "Data Analyst"]
-        self.languages  = ["Python", "SQL", "Java"]
-        self.interests  = ["Big Data", "Machine Learning", "Business Intelligence", "EDA"]
-        self.currently  = "Looking for internship / entry-level Data roles 🚀"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something data-driven together.")
-
-me = DataEnthusiast()
-me.say_hi()
-```
+> I am a third-year Data Science student at VNU-HCM University of Information Technology (UIT), passionate about Data Engineering, Data Analytics and AI/ML. Skilled in SQL, Python, data pipeline design, ETL workflows, Machine Learning and NLP. Seeking a Data internship position or entry-level roles to contribute to innovative, data-driven products at a forward-thinking company while continuously deepening my technical expertise.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
-### 🐍 Languages & Scripting
+#### Languages & Scripting
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,bash&theme=dark" />
 </p>
 
-### 📊 Data Science & Machine Learning
+#### Data Science & Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
@@ -51,9 +35,13 @@ me.say_hi()
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4590a8?style=for-the-badge&logo=python&logoColor=white" />
+  <p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+</p>
 </p>
 
-### 🗄️ Databases & Data Engineering
+#### Databases & Data Engineering
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis&theme=dark" />
@@ -63,26 +51,17 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-### ☁️ Cloud & DevOps
+#### Cloud & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,gcp,docker,git,github&theme=dark" />
 </p>
 
-### 📈 Business Intelligence & Visualization
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <!-- <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> -->
-</p>
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuikhongtenbo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" height="170" />
@@ -142,18 +121,7 @@ me.say_hi()
 
 ---
 
-## 🌱 Currently Learning
-
-<p align="left">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20%26%20RAG-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&logo=mlflow&logoColor=white" />
-</p>
-
----
-
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pham-thang-4a714424b/" target="_blank">
@@ -168,14 +136,6 @@ me.say_hi()
 </p>
 
 ---
-
-
-
-<!-- Capsule Render - Animated Wave Footer -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tuikhongtenbo&color=58a6ff&style=flat-square&label=Profile+Views" />
