@@ -14,7 +14,7 @@
 
 ## About Me
 
-> I am a fourth-year Data Science student at VNU-HCM University of Information Technology (UIT), passionate about Data Engineering, Data Analytics and AI/ML. Currently working as an **SAP Data Consultant at FPT Software**, with hands-on experience in SAP Datasphere, SAP Analytics Cloud (SAC), SAP BW, Microsoft Fabric, Azure, Power BI, Python and end-to-end ETL/ELT pipeline design.
+> I am a fourth-year Data Science student at VNU-HCM University of Information Technology (UIT), passionate about Data Engineering, Data Analytics and AI/ML. Skilled in SQL, Python, data pipeline design, ETL/ELT workflows, Machine Learning and NLP.
 
 ---
 
