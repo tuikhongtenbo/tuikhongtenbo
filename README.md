@@ -88,18 +88,8 @@
   <img src="https://skillicons.dev/icons?i=azure,gcp,docker&theme=dark" />
 </p>
 
----
 
-## 🏆 Awards & Achievements
 
-| 🏅 Competition | Result | Year |
-|---|:---:|:---:|
-| 🥇 COLIEE 2026 — Rationale Extraction (Pilot Task) | **1st Place** | 2026 |
-| 🥈 COLIEE 2026 — Tort Prediction (Pilot Task) | **2nd Place** | 2026 |
-| 🥈 ALQAC 2025 — Legal Document Retrieval (Task 1) | **2nd Place** | 2025 |
-| 📋 Datastorm 2026 | **Qualifying Round 2** | 2026 |
-
----
 
 ## GitHub Stats
 
