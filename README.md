@@ -1,20 +1,20 @@
 <!-- Capsule Render - Animated Wave Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hi%20there!%20I'm%20Thắng%20👋&fontColor=58a6ff&fontSize=45&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Scientist%20%7C%20Data%20Analyst&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,60:16213e,100:1a1a2e&height=220&section=header&text=Hi%20there!%20I'm%20Thắng%20👋&fontColor=58a6ff&fontSize=45&fontAlignY=38&desc=SAP%20Data%20Consultant%20%7C%20Data%20Engineer%20%7C%20Data%20Scientist&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%" />
 </p>
 
 <!-- Typing SVG -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=📊+Turning+raw+data+into+actionable+insights;🤖+Building+ML+models+%26+data+pipelines;🎓+Data+Science+Student+%40+UIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=📊+Turning+raw+data+into+actionable+insights;☁️+SAP+Datasphere+%7C+SAC+%7C+SAP+BW+%7C+Microsoft+Fabric;🤖+Building+ML+models+%26+scalable+data+pipelines;🎓+Data+Science+Student+%40+UIT" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 
-> I am a third-year Data Science student at VNU-HCM University of Information Technology (UIT), passionate about Data Engineering, Data Analytics and AI/ML. Skilled in SQL, Python, data pipeline design, ETL workflows, Machine Learning and NLP. Seeking a Data internship position or entry-level roles to contribute to innovative, data-driven products at a forward-thinking company while continuously deepening my technical expertise.
+> I am a fourth-year Data Science student at VNU-HCM University of Information Technology (UIT), passionate about Data Engineering, Data Analytics and AI/ML. Currently working as an **SAP Data Consultant at FPT Software**, with hands-on experience in SAP Datasphere, SAP Analytics Cloud (SAC), SAP BW, Microsoft Fabric, Azure, Power BI, Python and end-to-end ETL/ELT pipeline design.
 
 ---
 
@@ -26,26 +26,53 @@
   <img src="https://skillicons.dev/icons?i=python,java,bash&theme=dark" />
 </p>
 
-### Data Science & Machine Learning
+### ☁️ SAP Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SAP%20Datasphere-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-00B0F0?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20BW-1872C4?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20Data%20Platform-0070F2?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
+
+> **SAP Datasphere** — Data integration concepts, analytical data modeling, data warehousing & integration patterns across SAP ecosystem  
+> **SAP Analytics Cloud (SAC)** — Stories & planning models, KPI dashboards, input controls, calculated measures, data actions, version management, currency conversion, actual-vs-budget analysis  
+> **SAP BW** — Enterprise data warehousing, dimension design, data modeling & data integration
+
+### 🏗️ Microsoft Fabric & Azure
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataflow%20Gen2-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Data%20Lake%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Synapse%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" />
+</p>
+
+> **Microsoft Fabric** — End-to-end data pipelines, Dataflow Gen2, Bronze/Silver/Gold Medallion Architecture, SCD Type 2, Power BI semantic models  
+> **Azure** — ADLS Gen2, Azure Synapse Analytics, Azure Data Lakehouse
+
+### 📊 Data Science & Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
-   
+   
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4590a8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </p>
 </p>
 
-### Databases & Data Engineering
+### 🗄️ Databases & Data Engineering
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis&theme=dark" />
-   
+   
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
@@ -55,19 +82,26 @@
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-### Cloud & DevOps
+### 🔧 Cloud & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure,gcp,docker&theme=dark" />
 </p>
 
-## GitHub Stats
+---
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuikhongtenbo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" height="170" />
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuikhongtenbo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="170" />
-</p> -->
+## 🏆 Awards & Achievements
+
+| 🏅 Competition | Result | Year |
+|---|:---:|:---:|
+| 🥇 COLIEE 2026 — Rationale Extraction (Pilot Task) | **1st Place** | 2026 |
+| 🥈 COLIEE 2026 — Tort Prediction (Pilot Task) | **2nd Place** | 2026 |
+| 🥈 ALQAC 2025 — Legal Document Retrieval (Task 1) | **2nd Place** | 2025 |
+| 📋 Datastorm 2026 | **Qualifying Round 2** | 2026 |
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tuikhongtenbo&hide_border=true&background=0d1117&stroke=30363d&ring=f0b429&fire=f0b429&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9e9e9e&sideLabels=9e9e9e&dates=6e7681" />
@@ -134,9 +168,3 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
-
-<!-- ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuikhongtenbo&color=58a6ff&style=flat-square&label=Profile+Views" />
-</p> -->
