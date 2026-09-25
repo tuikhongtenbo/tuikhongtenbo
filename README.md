@@ -32,25 +32,13 @@
   <img src="https://img.shields.io/badge/SAP%20Datasphere-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-00B0F0?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/SAP%20BW-1872C4?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20Data%20Platform-0070F2?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
 > **SAP Datasphere** — Data integration concepts, analytical data modeling, data warehousing & integration patterns across SAP ecosystem  
 > **SAP Analytics Cloud (SAC)** — Stories & planning models, KPI dashboards, input controls, calculated measures, data actions, version management, currency conversion, actual-vs-budget analysis  
 > **SAP BW** — Enterprise data warehousing, dimension design, data modeling & data integration
 
-### 🏗️ Microsoft Fabric & Azure
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dataflow%20Gen2-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Data%20Lake%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Synapse%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=azure&theme=dark" />
-</p>
-
-> **Microsoft Fabric** — End-to-end data pipelines, Dataflow Gen2, Bronze/Silver/Gold Medallion Architecture, SCD Type 2, Power BI semantic models  
-> **Azure** — ADLS Gen2, Azure Synapse Analytics, Azure Data Lakehouse
 
 ### 📊 Data Science & Machine Learning
 
@@ -80,6 +68,7 @@
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="images/Microsoft_Fabric_2023.svg" height="28" alt="Microsoft Fabric" />
 </p>
 
 ### 🔧 Cloud & DevOps
